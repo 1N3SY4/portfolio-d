@@ -24,10 +24,10 @@ The challenge: Creating a visual system that worked as a "two-in-one" solution, 
 
 <!-- Grelha com 2 Imagens/GIFs Lado a Lado -->
 <div style="display: flex; gap: 10px; margin-bottom: 15px;">
-  <img src="images/modular-1.png" alt="Modular Concept" style="width: 50%; border-radius: 6px; object-fit: cover;">
-  <img src="images/modular-2.png" alt="Adaptation a" style="width: 50%; border-radius: 6px; object-fit: cover;">
-  <img src="images/modular-2.png" alt="Real Adaptation" style="width: 50%; border-radius: 6px; object-fit: cover;">
-  <img src="images/modular-2.png" alt="Real Adaptation" style="width: 50%; border-radius: 6px; object-fit: cover;">
+  <img src="images/modular-concept.jpg" alt="Modular Concept" style="width: 50%; border-radius: 6px; object-fit: cover;">
+  <img src="images/adapt-a.jpg" alt="Adaptation_a" style="width: 50%; border-radius: 6px; object-fit: cover;">
+  <img src="images/adapt-b.jpg" alt="Adaptation b" style="width: 50%; border-radius: 6px; object-fit: cover;">
+  <img src="images/readapt.jpg" alt="Readaptation" style="width: 50%; border-radius: 6px; object-fit: cover;">
 </div>
 </details>
 
