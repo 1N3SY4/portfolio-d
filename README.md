@@ -20,7 +20,7 @@ A Designer with 13 years of experience & a love for storytelling through human d
 <br>
 
 #### 📌 Overview & Concept
-The challenge: Creating a visual system that worked as a "two-in-one" solution, the organisation of both events shares resources. The original layout was iterated to allow maximum flexibility on-site. The solution?
+The challenge: Creating a visual system that worked as a "two-in-one" solution, the organisation of both events shares resources. The original layout was iterated to allow maximum flexibility on-site. The solution? See for yourself bellow. We had to consider asset life cycle, and
 
 <!-- Grelha com 2 Imagens/GIFs Lado a Lado -->
 <div style="display: flex; gap: 10px; margin-bottom: 15px;">
